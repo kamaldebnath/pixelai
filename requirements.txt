@@ -1,0 +1,6 @@
+Flask~=2.2.2
+moralis~=0.1.23
+requests~=2.28.1
+replicate~=0.5.0
+Pillow~=9.3.0
+nft.storage~=1.0.0
